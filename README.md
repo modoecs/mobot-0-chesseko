@@ -3,6 +3,8 @@
 A chess engine written from scratch in pure Python (standard library only, Python 3.8+).
 It plays full legal chess and searches with alpha-beta plus the usual pruning tricks.
 
+![The mobot-0 chesseko GUI](screenshot.png)
+
 ## Usage
 
 ```
